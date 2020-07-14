@@ -22,3 +22,7 @@ backend/node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#cloned from repo below 
+#https://github.com/beaucarnes/mern-exercise-tracker-mongodb
+# video on repo https://www.youtube.com/watch?v=7CqJlxBYj-M
